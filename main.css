@@ -12,6 +12,10 @@ body {
     display: grid;
 	}
 
+body a {
+    color: 
+}
+
 .page-wrapper {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
@@ -148,6 +152,7 @@ footer a{
 
 .sidebar h3{
     color: #fff;
+    font-family: 'Yomogi', cursive;
 }
 
 @media (max-width: 900px) {
